@@ -9,9 +9,7 @@
 - In this project, I present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively. 
 
     - In the crop recommendation application, the user can provide the soil data from their side and the application will predict which crop should the user grow. 
-    
-    - For the fertilizer recommendation application, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has excess of and will recommend improvements. 
-    
+        
     - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
 ## DATA SOURCE 📊
@@ -98,12 +96,7 @@ Note that, for now it only supports following crops
 ## DEMO
 
 - ### Crop recommendation system
-
 ![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
-- ### Fertilizer suggestion system
-
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
 
 
 - ### Disease Detection system
